@@ -3,13 +3,43 @@
 		{
 			"title": "Get caffeine",
 			"todo": [
-				{}
+				{
+					"title": "Buy mug",
+					"text": "Preferably nice mug with mavo.io logo"
+				},
+				{
+					"title": "Get pills",
+					"text": "with caffeine"
+				},
+				{
+					"title": "Fix bugs",
+					"text": "... with buttons"
+				},
+				{
+					"title": "Task 7",
+					"text": "Brew coffee"
+				}
 			],
 			"inProgress": [
-				{}
+				{
+					"title": "Task 4",
+					"text": "Buy espresso machine"
+				},
+				{
+					"title": "Task 3",
+					"text": "Grind beans"
+				}
 			],
 			"done": [
-				{}
+				{},
+				{
+					"title": "Task 1",
+					"text": "Buy coffee beans"
+				},
+				{
+					"title": "Task 2",
+					"text": "Buy grinder"
+				}
 			]
 		}
 	]
