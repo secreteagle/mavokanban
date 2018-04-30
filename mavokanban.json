@@ -1,12 +1,20 @@
 {
 	"todo": [
 		{
+			"title": "Buy a mug",
+			"text": "Preferably nice mug with the mavo.io logo"
+		},
+		{
 			"title": "Task 4",
-			"text": "And then what?"
+			"text": "Brew coffee"
 		}
 	],
 	"inProgress": [
 		{},
+		{
+			"title": "Task 5",
+			"text": "Figure out how to brew coffee"
+		},
 		{
 			"title": "Task 3",
 			"text": "Grind coffee beans"
