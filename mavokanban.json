@@ -12,10 +12,6 @@
 					"text": "with caffeine"
 				},
 				{
-					"title": "Fix bugs",
-					"text": "... with buttons"
-				},
-				{
 					"title": "Task 7",
 					"text": "Brew coffee"
 				}
@@ -31,7 +27,10 @@
 				}
 			],
 			"done": [
-				{},
+				{
+					"title": "Fix bugs",
+					"text": "... with buttons"
+				},
 				{
 					"title": "Task 1",
 					"text": "Buy coffee beans"
